@@ -29,7 +29,8 @@
 		<File RelativePath=".\fit-parameter.dat"/>
 		<File RelativePath=".\fit.log"/>
 		<File RelativePath=".\lin-reg.txt"/>
-		<File RelativePath=".\Lineare Regression.pdf"/></Filter>
+		<File RelativePath=".\Lineare Regression.pdf"/>
+		<File RelativePath=".\random_walk2d.dat"/></Filter>
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
 		<File RelativePath=".\Lineare Regression.f90"/>
 		<File RelativePath=".\plot.gp"/></Filter>
